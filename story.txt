@@ -9,12 +9,16 @@ You are a young 22 year old currently working a cashier job at Disneyland. It's 
 
 1:
 On the way home you notice how beautiful the rain is. The water cascades down like silver threads from the sky, dancing on the pavement and painting everything in a soft, ethereal glow. Thunder rumbles like a distant drum, but it doesn’t frighten you—instead, it feels… magical. Almost cinematic.
-You pass Sleeping Beauty's Castle, oddly empty, its colors muted under the storm clouds. Then, just as you're about to turn the corner toward the staff exit, something catches your eye. What do you notice? (go to branch 1.1) A white horse stands alone in front of the castle, soaked but majestic, with a shimmering royal saddle. It looks like it's waiting for you. Around its neck hangs a soggy note that reads: “Take me to her.” (go to branch 1.2)A glowing figure dances lightly in the rain, barefoot, as if she doesn’t feel the cold or the wet. As you get closer, you realize—it’s a girl in a sparkling blue ballgown. One glass slipper is missing. She looks at you like she already knows who you are.
+You pass Sleeping Beauty's Castle, oddly empty, its colors muted under the storm clouds. Then, just as you're about to turn the corner toward the staff exit, something catches your eye. What do you notice? (go to branch 11) A white horse stands alone in front of the castle, soaked but majestic, with a shimmering royal saddle. It looks like it's waiting for you. Around its neck hangs a soggy note that reads: “Take me to her.” (go to branch 12)A glowing figure dances lightly in the rain, barefoot, as if she doesn’t feel the cold or the wet. As you get closer, you realize—it’s a girl in a sparkling blue ballgown. One glass slipper is missing. She looks at you like she already knows who you are.
 
 2:
 You chose to remain and work. Hubert crashes out violently seeing your resolve, and transforms into a giant dragon. You are very scared, screaming like a little constipated girl, but then you realise you must make
 a dificult choice. Will you use the power of anime and friendship to switch souls and become Hubert, chaining him inside your little body (go to Branch 2.1) or will you use all of your mothers stew to invoke the
-magical camel of bravery, Camil, and face your greatest fears (Go to Branch 2.2)
+ magical camel of bravery, Camil, and face your greatest fears (Go to Branch 22)
+ 
+ 11:
+The white horse stands in the rain, staring you down like it knows you. A soaked note hangs around its neck:
+“Take me to her.” Without thinking, you climb onto the saddle. The moment you do, thunder cracks—and the horse bolts, not through the park, but straight into the haunted forest behind the castle, a place no guest is supposed to go.Branches claw at you as the world around you warps. You pass twisted trees, abandoned parade floats, and rusting animatronics with glowing red eyes. You’re definitely not in Disneyland anymore.Finally, the horse stops at a ruined, overgrown mirror maze, pulsing with violet light. It looks ancient… and alive.The horse vanishes beneath you, and in the reflection of the mirror, you don’t see yourself.You see her—a girl with your face, trapped inside.She mouths:“Get me out before Hubert finds us.” Do you:(branch 13) Step into the mirror to try to rescue your reflection? (branch 15) Run—this is way beyond what you signed up for.
 
 12:
 "Can you help me find my prince?" she asks in a meek voice.
@@ -24,3 +28,9 @@ You hesitate for a moment, staring at the girl in the blue ballgown.
 The girl frowns, tilting her head slightly. "You don’t remember me, do you?"She looks at you with such familiarity, like she’s known you for a long time. Before you can ask what she means, she suddenly grabs your wrist with surprising strength.
 "Please," she whispers. "Time is running out. I need to find him before midnight."
 Do you agree to help her search for the prince (go to branch 14) or do you refuse, insisting that none of this makes sense? (go to branch 16)
+
+ 21:
+ You begin channeling the power of anime and friendship, but in the last moments before your attack, you realise you have neither friends nor a subscription to Crunchyroll, and thus you fail. Hubert, initially shocked by your
+ violent outburst, now calmed himself and prepares to counterattack. Your situation is dire, and you are now scrambling your brain to figure out how to get out of this dilemma. Suddenly, an idea comes to you,
+ what if you could channel your inner dissapointment and use that to hijack Huberts body? (Branch 23). Or you could always just ignore your ideas just how you ignore all your responsibilities, eat one last coconut and log out in real life(Branch 25) 
+
