@@ -29,7 +29,12 @@ The girl frowns, tilting her head slightly. "You don’t remember me, do you?"Sh
 "Please," she whispers. "Time is running out. I need to find him before midnight."
 Do you agree to help her search for the prince (go to branch 14) or do you refuse, insisting that none of this makes sense? (go to branch 16)
 
- 21:
+13:
+You reach toward the mirror—your reflection staring back, eyes wide with urgency. The moment your fingers touch the glass, it ripples like water and pulls you in.
+You're swallowed by darkness.When you wake up, you're no longer in your body. You're inside the mirror world—a twisted, inverted version of the park. Everything’s off. The castle floats upside down. Music plays backward. Time feels... broken.Then you see her—your reflection, now walking around in your real body on the other side of the mirror.
+She smirks.“Thanks for the trade.”She turns and vanishes into the real world, leaving you trapped in this nightmare version of Disneyland.And behind you… you hear Hubert’s voice.“You’re just in time for the final show.” Do you: (Branch 17) Search the mirror world for allies and a way out?(Branch 19) Confront Hubert directly—you’re done running.
+
+21:
  You begin channeling the power of anime and friendship, but in the last moments before your attack, you realise you have neither friends nor a subscription to Crunchyroll, and thus you fail. Hubert, initially shocked by your
  violent outburst, now calmed himself and prepares to counterattack. Your situation is dire, and you are now scrambling your brain to figure out how to get out of this dilemma. Suddenly, an idea comes to you,
  what if you could channel your inner dissapointment and use that to hijack Huberts body? (Branch 23). Or you could always just ignore your ideas just how you ignore all your responsibilities, eat one last coconut and log out in real life(Branch 25) 
