@@ -7,84 +7,29 @@ Setting: Evil Disneyland
 You are a young 22 year old currently working a cashier job at Disneyland. It's a relatively normal day, except the fact that outside it's currently the worst thunderstorm in human history. The park is mostly empty, save for the evilest of clients, Hubert. Do you wish to go home (go to branch 1) or do you wish to remain working, thus earning triple your usual bonus salary? (go to branch 2)
 
 
+1:
+On the way home you notice how beautiful the rain is. The water cascades down like silver threads from the sky, dancing on the pavement and painting everything in a soft, ethereal glow. Thunder rumbles like a distant drum, but it doesn’t frighten you—instead, it feels… magical. Almost cinematic.
+You pass Sleeping Beauty's Castle, oddly empty, its colors muted under the storm clouds. Then, just as you're about to turn the corner toward the staff exit, something catches your eye. What do you notice? (go to branch 11) A white horse stands alone in front of the castle, soaked but majestic, with a shimmering royal saddle. It looks like it's waiting for you. Around its neck hangs a soggy note that reads: “Take me to her.” (go to branch 12)A glowing figure dances lightly in the rain, barefoot, as if she doesn’t feel the cold or the wet. As you get closer, you realize—it’s a girl in a sparkling blue ballgown. One glass slipper is missing. She looks at you like she already knows who you are.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Branch 2
-
+2:
 You chose to remain and work. Hubert crashes out violently seeing your resolve, and transforms into a giant dragon. You are very scared, screaming like a little constipated girl, but then you realise you must make
 a dificult choice. Will you use the power of anime and friendship to switch souls and become Hubert, chaining him inside your little body (go to Branch 2.1) or will you use all of your mothers stew to invoke the
- magical camel of bravery, Camil, and face your greatest fears (Go to Branch 2.2)
-
-
-
-
-
-
-
-
-
-
-
-
- Branch 21
+ magical camel of bravery, Camil, and face your greatest fears (Go to Branch 22)
+ 
+21:
  You begin channeling the power of anime and friendship, but in the last moments before your attack, you realise you have neither friends nor a subscription to Crunchyroll, and thus you fail. Hubert, initially shocked by your
  violent outburst, now calmed himself and prepares to counterattack. Your situation is dire, and you are now scrambling your brain to figure out how to get out of this dilemma. Suddenly, an idea comes to you,
- what if you could channel your inner dissapointment and use that to hijack Huberts body? (Branch 211). Or you could always just ignore your ideas just how you ignore all your responsibilities, eat one last coconut and log out in real life(Branch 212)
+ what if you could channel your inner dissapointment and use that to hijack Huberts body? (Branch 211). Or you could always just ignore your ideas just how you ignore all your responsibilities, eat one last coconut and log out in real life(Branch 212) 
+
+
+
+
+
+
+
+
+
+
+
+
+
