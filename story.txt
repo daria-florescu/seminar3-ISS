@@ -34,7 +34,7 @@ You reach toward the mirror—your reflection staring back, eyes wide with urgen
 You're swallowed by darkness.When you wake up, you're no longer in your body. You're inside the mirror world—a twisted, inverted version of the park. Everything’s off. The castle floats upside down. Music plays backward. Time feels... broken.Then you see her—your reflection, now walking around in your real body on the other side of the mirror.
 She smirks.“Thanks for the trade.”She turns and vanishes into the real world, leaving you trapped in this nightmare version of Disneyland.And behind you… you hear Hubert’s voice.“You’re just in time for the final show.” Do you: (Branch 17) Search the mirror world for allies and a way out?(Branch 19) Confront Hubert directly—you’re done running.
 
-14:
+16:
 Cinderella stares, eyes wide—then hurls her glass slipper at your face.  
 "Great! Thanks for nothing, asshole!" The shoe bounces off your forehead with a thunk. She storms off into the rain.You sigh, picking up the slipper. It hums—then EXPLODES in glitter and smoke.
 A voice booms: "YOU HAVE FAILED THE PRINCESS QUEST. YOUR SOUL BELONGS TO HUBERT."
