@@ -5,3 +5,70 @@ Written by: Crișan Beatrice Dunca Raluca Feketics Hunor Ferent Sonia Florescu D
 Setting: Evil Disneyland
 
 You are a young 22 year old currently working a cashier job at Disneyland. It's a relatively normal day, except the fact that outside it's currently the worst thunderstorm in human history. The park is mostly empty, save for the evilest of clients, Hubert. Do you wish to go home (go to branch 1) or do you wish to remain working, thus earning triple your usual bonus salary? (go to branch 2)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Branch 2
+
+You chose to remain and work. Hubert crashes out violently seeing your resolve, and transforms into a giant dragon. You are very scared, screaming like a little constipated girl, but then you realise you must make
+a dificult choice. Will you use the power of anime and friendship to switch souls and become Hubert, chaining him inside your little body (go to Branch 2.1) or will you use all of your mothers stew to invoke the
+ magical camel of bravery, Camil, and face your greatest fears (Go to Branch 2.2)
