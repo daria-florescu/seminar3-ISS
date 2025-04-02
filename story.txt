@@ -16,3 +16,11 @@ You chose to remain and work. Hubert crashes out violently seeing your resolve, 
 a dificult choice. Will you use the power of anime and friendship to switch souls and become Hubert, chaining him inside your little body (go to Branch 2.1) or will you use all of your mothers stew to invoke the
 magical camel of bravery, Camil, and face your greatest fears (Go to Branch 2.2)
 
+12:
+"Can you help me find my prince?" she asks in a meek voice.
+You hesitate for a moment, staring at the girl in the blue ballgown. 
+"Your prince?" you echo, unsure whether to be amused or concerned. "Cinderella, right? Is this part of some late-night event?" You glance around for any sign of cast members or security.
+
+The girl frowns, tilting her head slightly. "You don’t remember me, do you?"She looks at you with such familiarity, like she’s known you for a long time. Before you can ask what she means, she suddenly grabs your wrist with surprising strength.
+"Please," she whispers. "Time is running out. I need to find him before midnight."
+Do you agree to help her search for the prince (go to branch 14) or do you refuse, insisting that none of this makes sense? (go to branch 16)
