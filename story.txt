@@ -5,3 +5,8 @@ Written by: Crișan Beatrice Dunca Raluca Feketics Hunor Ferent Sonia Florescu D
 Setting: Evil Disneyland
 
 You are a young 22 year old currently working a cashier job at Disneyland. It's a relatively normal day, except the fact that outside it's currently the worst thunderstorm in human history. The park is mostly empty, save for the evilest of clients, Hubert. Do you wish to go home (go to branch 1) or do you wish to remain working, thus earning triple your usual bonus salary? (go to branch 2)
+
+
+branch 1:
+On the way home you notice how beautiful the rain is. The water cascades down like silver threads from the sky, dancing on the pavement and painting everything in a soft, ethereal glow. Thunder rumbles like a distant drum, but it doesn’t frighten you—instead, it feels… magical. Almost cinematic.
+You pass Sleeping Beauty's Castle, oddly empty, its colors muted under the storm clouds. Then, just as you're about to turn the corner toward the staff exit, something catches your eye. What do you notice? (go to branch 1.1) A white horse stands alone in front of the castle, soaked but majestic, with a shimmering royal saddle. It looks like it's waiting for you. Around its neck hangs a soggy note that reads: “Take me to her.” (go to branch 1.2)A glowing figure dances lightly in the rain, barefoot, as if she doesn’t feel the cold or the wet. As you get closer, you realize—it’s a girl in a sparkling blue ballgown. One glass slipper is missing. She looks at you like she already knows who you are.
