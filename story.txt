@@ -2,10 +2,6 @@ Story.txt
 Written by: Crișan Beatrice Dunca Raluca Feketics Hunor Ferent Sonia Florescu Daria
 
 
-Story.txt
-Written by: Dunca Raluca Feketics Hunor Ferent Sonia Florescu Daria
-
-
 Setting: Evil Disneyland
 
 You are a young 22 year old currently working a cashier job at Disneyland. It's a relatively normal day, except the fact that outside it's currently the worst thunderstorm in human history. The park is mostly empty, save for the evilest of clients, Hubert. Do you wish to go home (go to branch 1) or do you wish to remain working, thus earning triple your usual bonus salary? (go to branch 2)
