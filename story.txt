@@ -42,6 +42,9 @@ The End.
 17:
 You turn away from the broken mirror and start exploring the twisted mirror world. The sky is upside down, music plays backward, and statues whisper your name. Eventually, you find other trapped souls—former cast members, lost in time. One of them, a girl with glowing eyes, tells you there’s one way out, but only one person can take it. Without hesitation, you step onto a glowing carousel buried beneath vines. As it spins, everything fades. You wake up back in the real park, soaked and alone. The storm is gone. No one remembers anything—but you do. You escaped. And now you know Disneyland hides more than magic.The End.
 
+19: 
+You turn toward the darkened path and march straight into the heart of the mirror world. No more running. You find Hubert waiting in the ruined throne room of a twisted castle, grinning like he’s been expecting you. He towers over you, eyes glowing, shadow warping reality around him. But you don’t flinch. With nothing but your courage—and a half-broken souvenir sword—you lunge. The world explodes in light. When it fades, the mirror is gone. So is Hubert. You’re still trapped, but the loop is broken. The curse is over. Evil Disneyland is silent, and you? You’re the last hero standing.
+The End.
 
 21:
  You begin channeling the power of anime and friendship, but in the last moments before your attack, you realise you have neither friends nor a subscription to Crunchyroll, and thus you fail. Hubert, initially shocked by your
@@ -53,8 +56,10 @@ You turn away from the broken mirror and start exploring the twisted mirror worl
  with his three yellow glowing eyes and is waiting for you to give him an order. You say to him: "Kill that awful dragon, my dear Camil!". And the silly Camil doesn't know any english. Will you make Camil run to you like a very happy camel and take you on his back on a great adventure 
  on finding his lost glowing eye ( Go to branch 24 ), or will you make him run to Hubert and jump on his back and fly with him until they fade into the skies and and they find true happines there ( Go to branch 26 )
 
+
 23:
 You begin channeling all the dissapointment you harbor deep inside you, and produce a power more immense than the entirety of the milky way galaxy. Using this power, you summon your ultimate kidney stone, that you had when you were 13, 
 and launch it at Hubert the Dragon at a speed rivaling the speed of light. Your stone, whom you have named Peter and now love like your own child, pierces Huberts soul, dragging it out of his draconic body, and pulling it 
 all the way inside your own. Finally you eject yourself from your body like a nicaraguan pilot in distress, and take your seat as the rightful controller of the dragon's body. Now you have attained unlimited power. 
 Will you use it to achieve world peace(Go to branch 27) or will you become the very thing you swore to destroy, and raid the Crunchyroll headquarters to finally obtain that life subscription(Branch 29).
+
